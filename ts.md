@@ -59,7 +59,7 @@ add(1,2,3) 和 add(1,2)
 
 我们可以这么做
 
-    var add =(foo : number, bar : number, foobar? : number) : number=> {
+    var add = (foo : number, bar : number, foobar? : number) : number => {
       var result =  foo + bar;
       if(foobar !== undefined) {
       	result += foobar;
@@ -85,7 +85,7 @@ foobar? : number 多了一个问号 这样这个参数就是可选的了（非�
 在写JS的时候 是不是经常会遇到一个情况 函数参数可能会很多个，我们都是通过 arguments 来判断的，TS给你一种更强大的方法
 
     
-    var add = ( a: number, b : number,...foo : number[]) : number => {
+    var add = (a: number, b : number, ...foo : number[]) : number => {
       var result = a + b;
       for(var i = 0; i < foo.length; i++){
        		 result += foo[i];
@@ -194,7 +194,7 @@ add(1,2,3,4,5)
     	console.log(list);
     }
 
-这样子你就可以动态指定类型了
+这样子你就可以动态指定类型了（这里是**泛型**概念的操作）
 
     userfn<User>([{name:"wike",age:27},{name:"test",age:28}])
     
