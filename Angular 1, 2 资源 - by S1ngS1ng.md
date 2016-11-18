@@ -46,5 +46,7 @@
     - [Authentication](https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.18w4eywho)
 6. 用好 Google，StackOverflow，可以解决 95% 以上的问题
 7. 建议想快速实现功能的朋友看视频学习，边看边跟着敲。想深入了解的朋友，看书或者源码
-
+8. 我的一个简单的项目示例，用 `Angular-CLI` 生成的
+    - 在线预览：singsing.io/Angular-2-Essentials
+    - 源代码：github.com/S1ngS1ng/Angular-2-Essentials
 
