@@ -8,6 +8,7 @@
 1. [egghead.io](egghead.io) - 不定期的会有免费视频，也会有限时免费的视频。如果喜欢追新技术，建议入一个一年的会员。不止是 Angular 相关的，其他视频也很不错
 2. [Lynda](lynda.com) - 不是很推荐，目前还是采用老版本的写法
 3. [Udemy](udemy.com) - 课程比较多，精品也不少。按课程付费
+4. [Angular2 入门](http://www.hubwiz.com/course/5599d367a164dd0d75929c76/)
 
 ## 书
 1. [ng-book2](ng-book.com/2) - 推荐，更新及时，有例子有视频。半价优惠码（限时有效）：NgConf2016
@@ -17,6 +18,8 @@
 2. [Victor Savkin](https://vsavkin.com/@vsavkin) - 不少干货，Angular 2 的很多
 3. [Angular Expo](http://angularexpo.com/) - 很多 Angular 2 的开源项目，想写点儿东西不知道写啥，不妨来这里找找灵感
 4. [John Papa Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - 他的 Style Guide 很好。一份 Style Guide 可能不能帮助你写出漂亮的功能，但对后期维护绝对起到了至关重要的作用
+5. [去哪里学Angular 2，怎么学](https://www.delivoper.com/t/angular-2/32)
+6. [关于Angular2的一些资料（持续更新中）](https://segmentfault.com/a/1190000003761054)
 
 # Angular 1
 ## 官方
@@ -49,4 +52,3 @@
 8. 我的一个简单的项目示例，用 `Angular-CLI` 生成的
     - 在线预览：singsing.io/Angular-2-Essentials
     - 源代码：github.com/S1ngS1ng/Angular-2-Essentials
-
