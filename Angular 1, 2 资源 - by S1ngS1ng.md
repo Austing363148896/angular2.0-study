@@ -20,6 +20,7 @@
 4. [John Papa Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - 他的 Style Guide 很好。一份 Style Guide 可能不能帮助你写出漂亮的功能，但对后期维护绝对起到了至关重要的作用
 5. [去哪里学Angular 2，怎么学](https://www.delivoper.com/t/angular-2/32)
 6. [关于Angular2的一些资料（持续更新中）](https://segmentfault.com/a/1190000003761054)
+7. [Angular 2.x 从0到1](https://github.com/wpcfan/awesome-tutorials/tree/master/angular2/ng2-tut)
 
 # Angular 1
 ## 官方
