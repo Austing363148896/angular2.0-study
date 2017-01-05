@@ -21,6 +21,7 @@
 5. [去哪里学Angular 2，怎么学](https://www.delivoper.com/t/angular-2/32)
 6. [关于Angular2的一些资料（持续更新中）](https://segmentfault.com/a/1190000003761054)
 7. [Angular 2.x 从0到1](https://github.com/wpcfan/awesome-tutorials/tree/master/angular2/ng2-tut)
+8. [基于Angular2的一个模块化开发平台方案](https://github.com/hstarorg/ng2-modular-platform)
 
 # Angular 1
 ## 官方
