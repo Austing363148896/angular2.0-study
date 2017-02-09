@@ -23,6 +23,9 @@
 7. [Angular 2.x 从0到1](https://github.com/wpcfan/awesome-tutorials/tree/master/angular2/ng2-tut)
 8. [基于Angular2的一个模块化开发平台方案](https://github.com/hstarorg/ng2-modular-platform)
 
+## 插件
+1. [angular2 分页插件](http://michaelbromley.github.io/ng2-pagination/#/)
+
 # Angular 1
 ## 官方
 1. [官网](https://www.angularjs.org/)
